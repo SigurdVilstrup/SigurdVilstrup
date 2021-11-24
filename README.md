@@ -5,3 +5,4 @@
 ## Currently working on:
 * [The General Blockchain](https://github.com/SigurdVilstrup/TheGeneralBlockchain) ⛓
 * Coffee Machine Automation ☕
+* Dynamic Scrum/Kanvas board from Google Sheet 📈
