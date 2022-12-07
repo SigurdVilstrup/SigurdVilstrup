@@ -1,8 +1,7 @@
 # Hi there...
+- 🏦 Software developer with Bankdata
 - 🌐 [s.vavilstrup.dk](https://s.vavilstrup.dk/)
 - ✉ sigurd.vilstrup@gmail.com
-
-## Doing software development at Bankdata 🏦
 
 ## Currently working on:
 * [Local server for automating my coffee machine](https://github.com/SigurdVilstrup/Smart-Coffee) ☕
