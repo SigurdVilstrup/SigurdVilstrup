@@ -1,5 +1,4 @@
 # Hi there...
-- 🏦 Software developer with Bankdata
 - 🌐 [s.vavilstrup.dk](https://s.vavilstrup.dk/)
 - ✉ sigurd.vilstrup@gmail.com
 
